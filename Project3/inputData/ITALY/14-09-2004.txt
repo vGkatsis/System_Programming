@@ -1,0 +1,10 @@
+171 ENTER cxzud ypifipdzpdn MERS-COV 83
+172 ENTER rvzv pwtvsa SARS-COV1 50
+173 ENTER iuecdftkwao umoikpm MERS-COV 93
+174 ENTER iebctwyfk owws SARS-COV2 1
+175 ENTER uiqhv povohsirwl SARS-COV2 101
+176 ENTER wmx iwj MERS-COV 35
+171 EXIT cxzud ypifipdzpdn MERS-COV 83
+151 EXIT erskbdsdymh csxopu MERS-COV 94
+154 EXIT ahch afao MERS-COV 50
+180 ENTER ozjyj hkgfokomyzn MERS-COV 21

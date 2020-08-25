@@ -1,0 +1,10 @@
+271 ENTER zhxoesodu oqp MERS-COV 98
+272 ENTER dkx odwm SARS-COV2 73
+273 ENTER bmnldkkufda yujsqizdqr SARS-COV1 57
+274 ENTER qeojnd xwnywzzg MERS-COV 17
+275 ENTER mhc sdhvprdokd SARS-COV1 63
+276 ENTER gsk beyybrehkkx FLU 41
+274 EXIT qeojnd xwnywzzg MERS-COV 17
+274 EXIT qeojnd xwnywzzg MERS-COV 17
+270 EXIT muhtcazbik dkwdtich SARS-COV2 108
+273 EXIT bmnldkkufda yujsqizdqr SARS-COV1 57

@@ -1,0 +1,10 @@
+108 EXIT ikkeggmyro nnpqtcs MERS-COV 104
+108 EXIT ikkeggmyro nnpqtcs MERS-COV 104
+110 EXIT vyecpbxo pbbiykz SARS-COV1 103
+114 ENTER kdsxlnkx uziyncxz MERS-COV 89
+115 ENTER xcmhrkv zjbsw FLU 37
+104 EXIT gtgpfibxa cwgpwlvpht SARS-COV1 90
+117 ENTER sbwcgsi tkdvr SARS-COV2 36
+118 ENTER dpimrpkdhlc dfifzueho SARS-COV2 34
+114 EXIT kdsxlnkx uziyncxz MERS-COV 89
+120 ENTER ykbsniety bpo SARS-COV2 6

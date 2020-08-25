@@ -1,0 +1,10 @@
+125 EXIT nstpdrjhs toip MERS-COV 117
+132 ENTER qvn kaoiwgfwdi FLU 118
+132 EXIT qvn kaoiwgfwdi FLU 118
+134 ENTER dnlw pnqnylzvr SARS-COV2 98
+135 ENTER vtkwkcjo lge FLU 104
+136 ENTER mwzz qylsoowq SARS-COV2 118
+137 ENTER ocqquph xuaab SARS-COV1 97
+125 EXIT nstpdrjhs toip MERS-COV 117
+139 ENTER kiriaubshxn lwlf SARS-COV1 14
+114 EXIT kdsxlnkx uziyncxz MERS-COV 89

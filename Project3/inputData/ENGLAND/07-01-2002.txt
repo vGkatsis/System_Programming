@@ -1,0 +1,10 @@
+251 ENTER bzncoksg rvlcou FLU 15
+251 EXIT bzncoksg rvlcou FLU 15
+253 ENTER egxd wubupytjzir SARS-COV1 47
+254 ENTER bdnwdjti bxmtdbdsae FLU 29
+255 ENTER hgwrrvyak gwpcypq FLU 97
+255 EXIT hgwrrvyak gwpcypq FLU 97
+257 ENTER hjhdazokxz sqgzl SARS-COV2 87
+257 EXIT hjhdazokxz sqgzl SARS-COV2 87
+257 EXIT hjhdazokxz sqgzl SARS-COV2 87
+260 ENTER hnpgvwhkzm vdqgztmxfsf SARS-COV2 52

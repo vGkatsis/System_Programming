@@ -1,0 +1,10 @@
+searchPatientRecord 24
+numPatientAdmissions FLU 06-06-1997 06-06-2017
+numPatientDischarges FLU 06-06-1997 06-06-2017
+topk-AgeRanges 3 GREECE SARS-COV1 02-09-2000 27-01-2005
+diseaseFrequency SARS-COV2 01-06-2000 01-06-2010
+searchPatientRecord 124
+numPatientAdmissions SARS-COV1 05-03-2000 05-06-2001 CHINA
+numPatientDischarges SARS-COV1 05-03-2000 05-06-2001 CHINA
+topk-AgeRanges 2 CHINA FLU 01-01-1990 01-01-2005
+diseaseFrequency FLU 01-04-1992 01-04-2012

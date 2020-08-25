@@ -1,0 +1,10 @@
+201 ENTER zwrurshnv szrmshcbuba MERS-COV 29
+202 ENTER fwnkw quoqefn SARS-COV1 12
+203 ENTER mrga dklyzt SARS-COV2 33
+201 EXIT zwrurshnv szrmshcbuba MERS-COV 29
+205 ENTER zdilpwfnsl olfpmar SARS-COV1 102
+203 EXIT mrga dklyzt SARS-COV2 33
+207 ENTER znn tjmxu SARS-COV2 106
+201 EXIT zwrurshnv szrmshcbuba MERS-COV 29
+205 EXIT zdilpwfnsl olfpmar SARS-COV1 102
+210 ENTER scgt zrlnqs MERS-COV 101

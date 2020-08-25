@@ -1,0 +1,2 @@
+numPatientDischarges SARS-COV2 01-01-1990 01-01-2020
+numPatientDischarges SARS-COV2 01-01-1990 01-01-2020 USA

@@ -1,0 +1,10 @@
+451 ENTER ehsta hlc FLU 9
+452 ENTER rjdwbk ffh MERS-COV 66
+453 ENTER zhy acn FLU 22
+454 ENTER bklxtcp qhpwxagiuwk MERS-COV 56
+455 ENTER vyetqo pscqwxyy FLU 56
+455 EXIT vyetqo pscqwxyy FLU 56
+453 EXIT zhy acn FLU 22
+458 ENTER cairgpd rvoirfgznf FLU 81
+454 EXIT bklxtcp qhpwxagiuwk MERS-COV 56
+452 EXIT rjdwbk ffh MERS-COV 66

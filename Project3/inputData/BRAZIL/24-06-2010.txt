@@ -1,0 +1,10 @@
+481 ENTER haqcs ytwwnvp MERS-COV 64
+482 ENTER wjnbrq ktn FLU 73
+482 EXIT wjnbrq ktn FLU 73
+463 EXIT jhrewnmeuf rvlngcwzr SARS-COV1 44
+482 EXIT wjnbrq ktn FLU 73
+464 EXIT bwbkvyy fifcm MERS-COV 48
+487 ENTER cmy vxffqylg MERS-COV 19
+455 EXIT vyetqo pscqwxyy FLU 56
+489 ENTER xqmshufbqnf bnrnqf MERS-COV 29
+490 ENTER jmhb elbrnw SARS-COV2 48

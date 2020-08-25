@@ -1,0 +1,2 @@
+numPatientAdmissions FLU 01-01-1990 01-01-2020
+numPatientAdmissions FLU 01-01-1990 01-01-2020 USA

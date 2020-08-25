@@ -1,0 +1,10 @@
+61 ENTER mggzbfeykg ndtjylze SARS-COV1 107
+55 EXIT hsbkpxnkmru wwqsel SARS-COV2 19
+63 ENTER fkvfltd hgoykydoo MERS-COV 19
+57 EXIT kih sxw SARS-COV2 117
+65 ENTER zqizxlkcfm wjgmppftf SARS-COV1 34
+66 ENTER cwylxml leuezocjcx SARS-COV1 71
+63 EXIT fkvfltd hgoykydoo MERS-COV 19
+57 EXIT kih sxw SARS-COV2 117
+55 EXIT hsbkpxnkmru wwqsel SARS-COV2 19
+58 EXIT gxk cvgb SARS-COV1 36

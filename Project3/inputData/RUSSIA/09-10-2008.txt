@@ -1,0 +1,10 @@
+331 ENTER wjxjitpzsbj kuqmlxgpkfx SARS-COV1 61
+332 ENTER dsn hyjxozu FLU 39
+302 EXIT voxcycxu mrgbhqx SARS-COV2 20
+334 ENTER zmx wkjlec SARS-COV2 81
+335 ENTER akxrpxzh ugfocfiw MERS-COV 7
+336 ENTER azintdvlu smkmz FLU 84
+337 ENTER mneoozajd hzgfebr MERS-COV 118
+338 ENTER hbnztfui zicgyrrwrm FLU 20
+339 ENTER ippabayqtaa slwtvib SARS-COV1 3
+340 ENTER phgfn vhsq SARS-COV2 68

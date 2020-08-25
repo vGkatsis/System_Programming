@@ -1,0 +1,10 @@
+91 ENTER frpgc chawxj SARS-COV1 56
+92 ENTER uxjiqrhv tllqdlceih MERS-COV 81
+91 EXIT frpgc chawxj SARS-COV1 56
+66 EXIT cwylxml leuezocjcx SARS-COV1 71
+95 ENTER nhkz ltvfyvbgha MERS-COV 40
+96 ENTER qwqs cejnusfzyox MERS-COV 98
+52 EXIT fnxsxgjo jlg SARS-COV1 3
+98 ENTER odagc xtogwpcbv MERS-COV 120
+78 EXIT qojpaeywwvw smwdsofb SARS-COV1 27
+96 EXIT qwqs cejnusfzyox MERS-COV 98

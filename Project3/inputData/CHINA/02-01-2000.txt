@@ -1,0 +1,10 @@
+101 EXIT holxyxfizwx fueeeg SARS-COV2 59
+102 EXIT yycnxkjh gcwwrnljd MERS-COV 46
+103 ENTER xwnux pthrpqoe FLU 77
+104 ENTER gtgpfibxa cwgpwlvpht SARS-COV1 90
+104 EXIT gtgpfibxa cwgpwlvpht SARS-COV1 90
+103 EXIT xwnux pthrpqoe FLU 77
+107 ENTER ewaylgl cok FLU 23
+108 ENTER ikkeggmyro nnpqtcs MERS-COV 104
+103 EXIT xwnux pthrpqoe FLU 77
+110 ENTER vyecpbxo pbbiykz SARS-COV1 103

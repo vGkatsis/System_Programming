@@ -1,0 +1,10 @@
+306 EXIT dasc aylhu SARS-COV2 33
+312 EXIT osplhjcm vgody MERS-COV 61
+323 ENTER agjmzoebgdg snslck SARS-COV2 100
+317 EXIT qtelmh frtwewn SARS-COV2 30
+306 EXIT dasc aylhu SARS-COV2 33
+326 ENTER epoannqg phhee MERS-COV 89
+327 ENTER atxqkncaq qyrfhztgr MERS-COV 111
+327 EXIT atxqkncaq qyrfhztgr MERS-COV 111
+329 ENTER fxmqmhgh sdo FLU 54
+330 ENTER obeeaf dwjczwnj SARS-COV1 56

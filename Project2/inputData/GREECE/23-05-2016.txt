@@ -1,0 +1,10 @@
+1 EXIT pzcoxxnskg pyhilzvjyh SARS-COV2 23
+22 ENTER tqlxhprvy atlmwmfdx MERS-COV 60
+23 ENTER yyhtr zxccyzexti SARS-COV2 67
+24 ENTER vjv apxgtegxjb SARS-COV1 104
+1 EXIT pzcoxxnskg pyhilzvjyh SARS-COV2 23
+22 EXIT tqlxhprvy atlmwmfdx MERS-COV 60
+27 ENTER zxezitagyf ikzi SARS-COV2 33
+28 ENTER gwmxxsj eueluihsgwb SARS-COV2 104
+29 ENTER evzfl hovst SARS-COV1 47
+10 EXIT cpewmpctpf lqers MERS-COV 30

@@ -1,0 +1,10 @@
+151 ENTER erskbdsdymh csxopu MERS-COV 94
+151 EXIT erskbdsdymh csxopu MERS-COV 94
+153 ENTER pojv dycrqghnk SARS-COV2 78
+154 ENTER ahch afao MERS-COV 50
+154 EXIT ahch afao MERS-COV 50
+151 EXIT erskbdsdymh csxopu MERS-COV 94
+157 ENTER earfxkipser jixv SARS-COV2 98
+158 ENTER ztswfzeje oxg SARS-COV2 6
+157 EXIT earfxkipser jixv SARS-COV2 98
+158 EXIT ztswfzeje oxg SARS-COV2 6

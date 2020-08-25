@@ -1,0 +1,10 @@
+51 EXIT alznppayi hgasow SARS-COV1 36
+52 ENTER fnxsxgjo jlg SARS-COV1 3
+53 ENTER jcp mrpl SARS-COV1 61
+54 ENTER ztbbikvwgzx jqnirtpqmq FLU 57
+55 ENTER hsbkpxnkmru wwqsel SARS-COV2 19
+56 ENTER psdmgnceca oten MERS-COV 41
+57 ENTER kih sxw SARS-COV2 117
+58 ENTER gxk cvgb SARS-COV1 36
+52 EXIT fnxsxgjo jlg SARS-COV1 3
+56 EXIT psdmgnceca oten MERS-COV 41

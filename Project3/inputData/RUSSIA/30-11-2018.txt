@@ -1,0 +1,10 @@
+301 ENTER bjgxtasme nszq FLU 64
+302 ENTER voxcycxu mrgbhqx SARS-COV2 20
+303 ENTER nvhmhukjhna srtzqxzrw SARS-COV1 27
+302 EXIT voxcycxu mrgbhqx SARS-COV2 20
+305 ENTER nct frpdqs FLU 119
+306 ENTER dasc aylhu SARS-COV2 33
+307 ENTER ymevcsntx qlottc MERS-COV 58
+308 ENTER udbk jdpj MERS-COV 1
+302 EXIT voxcycxu mrgbhqx SARS-COV2 20
+310 ENTER imkih bbr SARS-COV1 91

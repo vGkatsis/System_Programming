@@ -1,0 +1,10 @@
+1 ENTER pzcoxxnskg pyhilzvjyh SARS-COV2 23
+2 ENTER rafonp ydihozaux FLU 51
+3 ENTER rzlqg brdeqpao SARS-COV2 115
+3 EXIT rzlqg brdeqpao SARS-COV2 115
+5 ENTER ctckls eay SARS-COV1 45
+2 EXIT rafonp ydihozaux FLU 51
+2 EXIT rafonp ydihozaux FLU 51
+2 EXIT rafonp ydihozaux FLU 51
+3 EXIT rzlqg brdeqpao SARS-COV2 115
+10 ENTER cpewmpctpf lqers MERS-COV 30

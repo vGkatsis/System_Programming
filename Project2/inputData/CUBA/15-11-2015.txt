@@ -1,0 +1,10 @@
+401 ENTER lqr lobfgnoflot SARS-COV2 119
+402 ENTER genvrggil wluvcpht SARS-COV2 29
+401 EXIT lqr lobfgnoflot SARS-COV2 119
+401 EXIT lqr lobfgnoflot SARS-COV2 119
+401 EXIT lqr lobfgnoflot SARS-COV2 119
+406 ENTER hsonhkdq nisvxgiqwzh SARS-COV2 71
+401 EXIT lqr lobfgnoflot SARS-COV2 119
+401 EXIT lqr lobfgnoflot SARS-COV2 119
+406 EXIT hsonhkdq nisvxgiqwzh SARS-COV2 71
+410 ENTER sahkzolhf jimf FLU 91
